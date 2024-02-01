@@ -1,0 +1,6 @@
+.venv
+.tessdata-main/
+
+# 트레이닝 모델
+custom_ocr.modal/
+OCR_with_Python/Models/*.csv
